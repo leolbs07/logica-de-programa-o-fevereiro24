@@ -8,7 +8,7 @@ programa {
     real peso = 65.5
     logico semideus = verdadeiro 
     cadeia vdd = "Semi Deus"
-    cdeia = ultimo romantico
+    cadeia = ultimo romantico
     // Exibindo dados.
     escreva ("\n", nome)
     escreva ("\n", sexo)
